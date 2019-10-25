@@ -7,3 +7,5 @@ surveys_dot <- read.csv("C:/Users/Innwon Park/Documents/uw-r-workshops-master/uw
 
 surveys_dot
 str(surveys_dot)
+
+I made a bad change
